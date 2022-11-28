@@ -100,4 +100,20 @@ Ara ja podrem passar a la proxima pantalla.
 
 ![image](https://user-images.githubusercontent.com/114423054/204347649-a28edfe0-4f12-4c5c-b833-004d2e3b4b25.png)
 
+Ara ens sortiria les comprovacions si ens falta algo com podem veure a mi me fa falta algunes.
+
+![image](https://user-images.githubusercontent.com/114423054/204348690-ecf491e3-c091-48b4-98b5-b6354df0e78a.png)
+
+![image](https://user-images.githubusercontent.com/114423054/204348639-2aa1002d-fc1b-416b-b643-00712ef5bd54.png)
+
+Anirem arreglant les exensions.
+
+![image](https://user-images.githubusercontent.com/114423054/204348856-f6b4c17f-c0ac-4965-8896-877b31c49e93.png)
+
+Una vegada instal·lats totes les extensions i tot correcte ja estarà.
+
+![image](https://user-images.githubusercontent.com/114423054/204352477-873f1286-d3bf-482a-ac92-a1bf4ad411e5.png)
+
+![image](https://user-images.githubusercontent.com/114423054/204352514-d2da8125-2ff7-4517-babd-68604680e6ce.png)
+
 
