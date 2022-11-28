@@ -55,3 +55,21 @@ Ara ja podrem accedir al moodle posan la meua ip /moodle/install.php.
 
 ![image](https://user-images.githubusercontent.com/114423054/204304379-c3d814f5-c00f-42df-af58-1be2ae87229c.png)
 
+Ara buscarem el php 
+
+![image](https://user-images.githubusercontent.com/114423054/204305581-c06e2343-3085-4416-a26b-c846a3a68b24.png)
+
+Instal-lo el php dins de moodle.
+
+![image](https://user-images.githubusercontent.com/114423054/204305751-75ac9071-a25b-48bb-b505-c555ea9f4ae6.png)
+
+I el php curl.
+
+![image](https://user-images.githubusercontent.com/114423054/204305991-6285d510-665c-4789-9eb6-e509698435e1.png)
+
+Per acabar reiniciare el servidor.
+
+![image](https://user-images.githubusercontent.com/114423054/204306189-333b3766-c9aa-449e-ab70-700eb348c6a0.png)
+
+
+
