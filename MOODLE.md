@@ -71,5 +71,33 @@ Per acabar reiniciare el servidor.
 
 ![image](https://user-images.githubusercontent.com/114423054/204306189-333b3766-c9aa-449e-ab70-700eb348c6a0.png)
 
+Si tornem a entrar posan la ip /moodle/install.php
+ens sortira aixó.
+
+![image](https://user-images.githubusercontent.com/114423054/204332963-65eaffad-bf72-49b2-bb80-607fffe4c942.png)
+
+Tindrem que cambiar la ultima destinació per la que hem posat nosaltres /home/moodledata.
+
+![image](https://user-images.githubusercontent.com/114423054/204333295-198393a5-852b-4fb4-ab48-d419b5acc37b.png)
+
+Després ens preguntara quina base de dades volem utilitzar li indicarem la que hem instl·lat mysql
+
+![image](https://user-images.githubusercontent.com/114423054/204334331-288cf6d5-ec1e-4c73-a183-36e50fc64c3e.png)
+
+Finalment renellem les dades 
+
+![image](https://user-images.githubusercontent.com/114423054/204334769-884a6962-a1b9-4ee3-9bf0-5c03af94f81c.png)
+
+Abans de continuar ens demanara també instal·lar el PHP XML.
+
+![image](https://user-images.githubusercontent.com/114423054/204346986-5f9824c9-ad77-4e8e-91d0-e911eb9eb352.png)
+
+També caldra instal·lar aquesta extensió.
+
+![image](https://user-images.githubusercontent.com/114423054/204347272-00b4d8df-f5f8-4a74-a72c-3fe4ceea754a.png)
+
+Ara ja podrem passar a la proxima pantalla.
+
+![image](https://user-images.githubusercontent.com/114423054/204347649-a28edfe0-4f12-4c5c-b833-004d2e3b4b25.png)
 
 
