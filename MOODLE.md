@@ -116,4 +116,7 @@ Una vegada instal·lats totes les extensions i tot correcte ja estarà.
 
 ![image](https://user-images.githubusercontent.com/114423054/204352514-d2da8125-2ff7-4517-babd-68604680e6ce.png)
 
+També he solucionat aquest error cambiant de 1000 a 5000.
+
+![image](https://user-images.githubusercontent.com/114423054/204353557-b25eec4c-821e-4180-bcd1-7d803b268c29.png)
 
