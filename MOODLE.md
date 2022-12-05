@@ -120,3 +120,6 @@ També he solucionat aquest error cambiant de 1000 a 5000.
 
 ![image](https://user-images.githubusercontent.com/114423054/204353557-b25eec4c-821e-4180-bcd1-7d803b268c29.png)
 
+Una vegada comprovat i instal·lat ubuntu ara tindrem que acabar la instal·lació rellenant aquestes dades.
+
+![image](https://user-images.githubusercontent.com/114423054/205686888-665c0c32-14cc-4233-a94e-3044a3d0f8cb.png)
