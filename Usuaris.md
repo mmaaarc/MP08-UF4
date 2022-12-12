@@ -24,3 +24,4 @@ Anire a l'apartat d'administració i al apartat d'usuaris.
 Primer Usuari: 
 ![image](https://user-images.githubusercontent.com/114423054/207115299-1de84c67-7e71-45e0-8612-eb1fff3c8eda.png)
 
+Segon Usuari
