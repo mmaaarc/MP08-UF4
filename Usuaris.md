@@ -25,3 +25,20 @@ Primer Usuari:
 ![image](https://user-images.githubusercontent.com/114423054/207115299-1de84c67-7e71-45e0-8612-eb1fff3c8eda.png)
 
 Segon Usuari
+
+![image](https://user-images.githubusercontent.com/114423054/208450478-b40b6a65-8b47-4bce-a762-7ccb0a317e68.png)
+
+Tercer Usuari. 
+Sol cladra cambiar per no editor a l'apartat de permisos d'usuaris.
+
+![image](https://user-images.githubusercontent.com/114423054/208450234-47e0b528-c839-41e2-a3b6-44dc3080aa31.png)
+
+5.
+
+
+
+6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+![Captura de pantalla de 2022-12-19 15-46-44](https://user-images.githubusercontent.com/114423054/208452536-5efbb36f-5e93-4d7b-9318-7ad3090fc217.png)
+
+
+
