@@ -38,11 +38,14 @@ Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs
 
 ![image](https://user-images.githubusercontent.com/114423054/208475981-fa46abe7-af73-496c-9ea7-bea2e4e800f4.png)
 
-Inscriu a tots els alumnes al curs.
+Inscriu a tots els alumnes al curs, inscriu a tots els professors al curs.
 
 ![image](https://user-images.githubusercontent.com/114423054/208475812-a43c8adc-ce26-44ca-ab8f-430641a9ceb7.png)
 
+Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
+![image](https://user-images.githubusercontent.com/114423054/208478118-b792d83d-739d-499a-ba28-bd1a20d59a1a.png)
 
+![image](https://user-images.githubusercontent.com/114423054/208478240-07ddb99a-6c66-47f3-b4f1-f4596bc326ca.png)
 
 
