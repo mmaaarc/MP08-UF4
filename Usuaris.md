@@ -40,5 +40,8 @@ Sol cladra cambiar per no editor a l'apartat de permisos d'usuaris.
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 ![Captura de pantalla de 2022-12-19 15-46-44](https://user-images.githubusercontent.com/114423054/208452536-5efbb36f-5e93-4d7b-9318-7ad3090fc217.png)
 
+![image](https://user-images.githubusercontent.com/114423054/208453354-d3b61f62-01e6-4ce6-a58c-27a93b4510ed.png)
+
+![image](https://user-images.githubusercontent.com/114423054/208453424-6ee1ac81-f92f-4fc4-8219-95109295c52c.png)
 
 
