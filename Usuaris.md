@@ -44,4 +44,39 @@ Sol cladra cambiar per no editor a l'apartat de permisos d'usuaris.
 
 ![image](https://user-images.githubusercontent.com/114423054/208453424-6ee1ac81-f92f-4fc4-8219-95109295c52c.png)
 
+Fare el mateix amb els altres cursos accedir als cursos i anyadir com a professor els profes.
+
+7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+![image](https://user-images.githubusercontent.com/114423054/208454662-6777f89d-ddfd-4215-816b-decceb004563.png)
+
+![image](https://user-images.githubusercontent.com/114423054/208454894-27e77058-38cd-4032-869e-106c87f82b57.png)
+
+8 Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+![image](https://user-images.githubusercontent.com/114423054/208455264-0f53bb55-b0d7-4ed8-b60a-ff59cd0588d0.png)
+
+![image](https://user-images.githubusercontent.com/114423054/208455322-2fcc2b15-4397-49f0-93c9-7049795a3c9b.png)
+
+El mateix amb els altres cursos.
+
+10. Mostra l'apartat Participants de cada curs.
+ 
+ ![image](https://user-images.githubusercontent.com/114423054/208456016-55ccf3bb-a8b7-4963-8d14-9c196fcdfb32.png)
+
+
+ ![image](https://user-images.githubusercontent.com/114423054/208456128-2c3a7e7b-a97c-405e-a3a2-8a52a884d9e2.png)
+
+ ![image](https://user-images.githubusercontent.com/114423054/208456223-cacd337e-0c6c-4864-98e5-65338e9900dc.png)
+  
+ ![image](https://user-images.githubusercontent.com/114423054/208456288-ededb0a3-f45f-4ba7-aa67-344f554f819b.png)
+ 
+ ![image](https://user-images.githubusercontent.com/114423054/208456350-5c965055-52cb-45eb-8f83-b34a15253ec4.png)
+
+ ![image](https://user-images.githubusercontent.com/114423054/208456411-3b1d6e8a-9ef0-4b8d-8da4-7ca79758b3b8.png)
+
+ ![image](https://user-images.githubusercontent.com/114423054/208456485-a96ebd62-d7f8-49db-a9ab-65592813fa1b.png)
+
+
+
 
