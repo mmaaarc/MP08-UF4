@@ -44,8 +44,24 @@ Inscriu a tots els alumnes al curs, inscriu a tots els professors al curs.
 
 Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
-![image](https://user-images.githubusercontent.com/114423054/208478118-b792d83d-739d-499a-ba28-bd1a20d59a1a.png)
+![image](https://user-images.githubusercontent.com/114423054/208490008-fdec3eaf-3480-4d62-99fe-c0541b572015.png)
 
-![image](https://user-images.githubusercontent.com/114423054/208478240-07ddb99a-6c66-47f3-b4f1-f4596bc326ca.png)
+![image](https://user-images.githubusercontent.com/114423054/208490501-2c8bb37a-ecf4-44f1-9000-ea0fada877a4.png)
 
+Crea un tema anomenat "Fonaments de Python".
 
+![image](https://user-images.githubusercontent.com/114423054/208491016-f4970ca1-2c4a-48f1-b117-3f00d605d352.png)
+
+Li donarem a oculta el tema.
+
+![image](https://user-images.githubusercontent.com/114423054/208491108-a4ecf4f8-d6fc-4a11-bc78-bde84ecd8a2b.png)
+
+Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
+
+![image](https://user-images.githubusercontent.com/114423054/208491358-d5c6fccd-b04b-4368-95c7-2d7c6dc90356.png)
+
+![image](https://user-images.githubusercontent.com/114423054/208492020-364920ca-c717-479d-9d38-32218beaf491.png)
+
+![image](https://user-images.githubusercontent.com/114423054/208492098-e416cb1a-17aa-4ef8-b1b4-994b08207a69.png)
+
+Fes que els alumnes contestin la tasca (mínim 3).
