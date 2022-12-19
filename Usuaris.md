@@ -33,7 +33,8 @@ Sol cladra cambiar per no editor a l'apartat de permisos d'usuaris.
 
 ![image](https://user-images.githubusercontent.com/114423054/208450234-47e0b528-c839-41e2-a3b6-44dc3080aa31.png)
 
-5.
+5.![image](https://user-images.githubusercontent.com/114423054/208460567-9008a7d5-367d-4eed-a658-4344e0aaa255.png)
+
 
 
 
@@ -76,6 +77,22 @@ El mateix amb els altres cursos.
  ![image](https://user-images.githubusercontent.com/114423054/208456411-3b1d6e8a-9ef0-4b8d-8da4-7ca79758b3b8.png)
 
  ![image](https://user-images.githubusercontent.com/114423054/208456485-a96ebd62-d7f8-49db-a9ab-65592813fa1b.png)
+ 
+11. Què són les Cohorts? Son grups dins d'un curs on podem normalment és per inscriure els alumnes.
+
+12. Perquè serveixen? Per crear grups dins dun curs 
+
+13. Què són els grups? Els grups son un conjunt d'usuaris que tenen un mateix curs en comú.
+
+14. Perquè serveixen? Serveixen per a que un professor pugui editar i gestionar aules virtuls dins d'un curs.
+
+15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+ 
+
+
+
+
 
 
 
